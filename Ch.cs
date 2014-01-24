@@ -1,0 +1,17 @@
+ graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col0XParam, Util.Row1YParam, Util.EmergRectWidthParam, Util.EmergRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col1XParam, Util.Row2YParam, Util.MemberRectWidthParam, Util.MemberRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col2XParam, Util.Row2YParam, Util.MemberRectWidthParam, Util.MemberRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col1XParam, Util.Row3YParam, Util.MemberRectWidthParam, Util.MemberRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col2XParam, Util.Row3YParam, Util.MemberRectWidthParam, Util.MemberRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col3XParam, Util.Row4YParam, Util.DependentNameRectWidthParam, Util.DependentRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col4XParam, Util.Row4YParam, Util.DependentDateRectWidthParam, Util.DependentRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col3XParam, Util.Row5YParam, Util.DependentNameRectWidthParam, Util.DependentRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col4XParam, Util.Row5YParam, Util.DependentDateRectWidthParam, Util.DependentRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col3XParam, Util.Row6YParam, Util.DependentNameRectWidthParam, Util.DependentRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col4XParam, Util.Row6YParam, Util.DependentDateRectWidthParam, Util.DependentRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col5XParam, Util.Row4YParam, Util.DependentNameRectWidthParam, Util.DependentRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col6XParam, Util.Row4YParam, Util.DependentDateRectWidthParam, Util.DependentRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col5XParam, Util.Row5YParam, Util.DependentNameRectWidthParam, Util.DependentRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col6XParam, Util.Row5YParam, Util.DependentDateRectWidthParam, Util.DependentRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col5XParam, Util.Row6YParam, Util.DependentNameRectWidthParam, Util.DependentRectHeightParam));
+                                graphicImage.DrawRectangle(Pens.Blue, new Rectangle(Util.Col6XParam, Util.Row6YParam, Util.DependentDateRectWidthParam, Util.DependentRectHeightParam));
